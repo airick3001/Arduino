@@ -69,6 +69,6 @@ void loop() {
     }
     
     // pause between notes
-    delay(tempo / 2); 
+    delay(tempo / 2.5); 
   }
 }
