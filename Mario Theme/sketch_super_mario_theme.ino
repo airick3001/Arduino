@@ -1,5 +1,3 @@
-
-    
 int speakerPin = 8;
 
 int length = 295; // the number of notes
